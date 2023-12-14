@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "5432",
+    "database": "fotografias-galeria",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "token_secret": "123ABc456r%dSERT987o_"
+}
